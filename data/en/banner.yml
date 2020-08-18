@@ -5,8 +5,8 @@ banner:
   bg_image : "images/backgrounds/pgm.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "The Young Writer"
-  content : "A Chef, A Programmer, A Singer and A Writer at the age of 8."
+  content : "A Chef, A Programmer, A Singer and A Writer, at the age of 9."
   button:
     enable : true
-    label : "Coming Soon..."
+    label : "Coming Soon.."
     link : "#"
