@@ -8,5 +8,5 @@ banner:
   content : "A Chef, A Programmer, A Singer and A Writer, at the age of 9."
   button:
     enable : true
-    label : "Coming Soon.."
+    label : "Coming Soon..."
     link : "#"
